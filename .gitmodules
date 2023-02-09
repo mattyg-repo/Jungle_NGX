@@ -1,0 +1,6 @@
+[submodule "MGMVC_core"]
+	path = core
+	url = https://github.com/mattyg-repo/MGMVC_core
+[submodule "MGMVC_public"]
+	path = public
+	url = https://github.com/mattyg-repo/MGMVC_public

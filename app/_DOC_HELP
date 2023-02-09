@@ -1,0 +1,2 @@
+http://www.myURL.de/<controller>/<method>/<data[]>
+http://www.myURL.de/api/<apicontroller>/<method>/<data[]>
